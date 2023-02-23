@@ -1,4 +1,4 @@
-name: main
+name: deploy
 
 on:
   push:
@@ -6,6 +6,7 @@ on:
     paths-ignore:
       - '**.md'
       - '.github/**'
+  workflow_dispatch:
 
 jobs:
   gh-pages:
