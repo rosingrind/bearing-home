@@ -5,17 +5,17 @@
     "main.js.map": "/bearing-home/static/js/main.5ddaa41e.chunk.js.map",
     "runtime-main.js": "/bearing-home/static/js/runtime-main.28fd6548.js",
     "runtime-main.js.map": "/bearing-home/static/js/runtime-main.28fd6548.js.map",
-    "static/js/2.0aa1bc14.chunk.js": "/bearing-home/static/js/2.0aa1bc14.chunk.js",
-    "static/js/2.0aa1bc14.chunk.js.map": "/bearing-home/static/js/2.0aa1bc14.chunk.js.map",
+    "static/js/2.fbe8a2bf.chunk.js": "/bearing-home/static/js/2.fbe8a2bf.chunk.js",
+    "static/js/2.fbe8a2bf.chunk.js.map": "/bearing-home/static/js/2.fbe8a2bf.chunk.js.map",
     "static/js/3.b095750f.chunk.js": "/bearing-home/static/js/3.b095750f.chunk.js",
     "static/js/3.b095750f.chunk.js.map": "/bearing-home/static/js/3.b095750f.chunk.js.map",
     "index.html": "/bearing-home/index.html",
     "static/css/main.a85cc54f.chunk.css.map": "/bearing-home/static/css/main.a85cc54f.chunk.css.map",
-    "static/js/2.0aa1bc14.chunk.js.LICENSE.txt": "/bearing-home/static/js/2.0aa1bc14.chunk.js.LICENSE.txt"
+    "static/js/2.fbe8a2bf.chunk.js.LICENSE.txt": "/bearing-home/static/js/2.fbe8a2bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.28fd6548.js",
-    "static/js/2.0aa1bc14.chunk.js",
+    "static/js/2.fbe8a2bf.chunk.js",
     "static/css/main.a85cc54f.chunk.css",
     "static/js/main.5ddaa41e.chunk.js"
   ]
