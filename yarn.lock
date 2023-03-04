@@ -2895,10 +2895,10 @@ batch@0.6.1:
   resolved "https://registry.yarnpkg.com/batch/-/batch-0.6.1.tgz#dc34314f4e679318093fc760272525f94bf25c16"
   integrity sha512-x+VAiMRL6UPkx+kudNvxTl6hB2XNNCG2r+7wixVfIYwu/2HKRXimwQyaumLjMveWvT2Hkd/cAJw+QBMfJ/EKVw==
 
-bearing@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/bearing/-/bearing-0.6.0.tgz#7d1db1240a67a9595838f8969b340b81d8ab5a3c"
-  integrity sha512-VvYlIwmW5kRcMm/VdAg/OTzAW3lhQXZLg8D29VfKSTZiFV5ct5vBIGE0WqqVdIN7iLDaGl0emxVnadu+F9qvew==
+bearing@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/bearing/-/bearing-0.7.0.tgz#940a5c5b28888d6ac080246db3fe9f9a35d7a9f3"
+  integrity sha512-r/77Q449lbHZAyB/VmUylvdeIPBtYYfFsRsV4ChoswH5ROiRGBM08XH/g5FdUb4yp4d77Gln+Enje6J6rUzVcg==
   dependencies:
     classnames "^2.3.2"
 
